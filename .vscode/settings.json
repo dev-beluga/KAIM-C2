@@ -1,0 +1,19 @@
+{
+  "cSpell.words": [
+    "cmap",
+    "colorbar",
+    "Dataframe",
+    "dtypes",
+    "figsize",
+    "fillna",
+    "histplot",
+    "regplot",
+    "seira",
+    "sierrleone",
+    "Tamb",
+    "violinplot",
+    "xlabel",
+    "ylabel"
+  ],
+  "python.analysis.extraPaths": ["./scripts"]
+}
