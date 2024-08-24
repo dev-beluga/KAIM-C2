@@ -1,2 +1,7 @@
 # Data files
 /src/data
+.env
+notebooks/.ipynb_checkpoints/data_load-checkpoint.ipynb
+scripts/__pycache__/calculations.cpython-312.pyc
+scripts/__pycache__/data_cleaning.cpython-312.pyc
+scripts/__pycache__/load_data.cpython-312.pyc
